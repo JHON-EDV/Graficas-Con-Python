@@ -1,5 +1,5 @@
 #Jhon Edison Vargas 20152005077
-#Andres Ariza       201520050
+#Andres Ariza       20152005026
 # Grafica del Cuadripolo electrico en 3D
 
 #Importar librerias
